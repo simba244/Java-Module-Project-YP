@@ -1,4 +1,3 @@
-// Race.java
 public class Race {
     String winnerName = "";
     int maxSpeed = 0;
